@@ -1,0 +1,2 @@
+#bin/bash
+chwon -L _hello:vincent:staff ./
