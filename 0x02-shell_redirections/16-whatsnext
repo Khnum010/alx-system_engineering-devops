@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e "root" | cat | head -3 | /etc/passwd
+grep -e "root" | cat | head -3 | /etc/passwd >> root.txt
