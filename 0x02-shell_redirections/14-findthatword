@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -e -f "root" | cat | /etc/passwd >> root.txt
