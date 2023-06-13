@@ -1,0 +1,2 @@
+#!/bin/bash
+grep cat | POWER=2**4 | DIVIDE=40/10 | echo $(POWER/DIVIDE)
