@@ -1,0 +1,2 @@
+#!/bin/bash
+grep cat | ls -a | sort -f | /etc/ssh/sshd_config
