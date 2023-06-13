@@ -1,0 +1,2 @@
+#!/bin/bash
+grep cat | export BREATH=4 | LOVE=5 | echo $(BREATH**LOVE)
