@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ls -A --file-type ".gif" sort -f -i 'aaa''bbb' 'a''.b' 'Rona''jay' >> gif.txt
