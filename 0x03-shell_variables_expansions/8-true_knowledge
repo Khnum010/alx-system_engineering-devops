@@ -1,0 +1,2 @@
+#!/bin/bash
+grep cat -e | export TRUEKNOWLEDGE=128 | echo $TRUEKNOWLEDGE
