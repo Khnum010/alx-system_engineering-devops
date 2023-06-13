@@ -1,0 +1,2 @@
+#!/bin/bash
+grep cat |ls -a| sort "$USER" | /etc/passwd >> users.txt
