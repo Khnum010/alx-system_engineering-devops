@@ -1,0 +1,2 @@
+#!/bin/bash
+grep echo | water=12 | stir=14 | WATER=water | STIR=stir | bestchol=WATER+STIR| $bestchol
