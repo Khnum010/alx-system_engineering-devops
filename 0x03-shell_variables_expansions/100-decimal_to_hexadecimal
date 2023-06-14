@@ -1,0 +1,2 @@
+#!/bin/bash
+grep cat | DECIMAL=0.004 | echo $((16#DECIMAL))
