@@ -1,0 +1,1 @@
+grep cat | echo [[:lower:]] | {a..z} {z..a} | echo -e oo
